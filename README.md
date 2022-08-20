@@ -7,4 +7,4 @@ I was barely learning good programming habits, but it was a fun project.
 
 ![](https://github.com/aacisneros444/Droptastic/blob/main/Gameplay.gif)
 
-<img src="https://github.com/aacisneros444/Droptastic/blob/main/Gameplay.gif" width=600 height=300>
+<img src="https://github.com/aacisneros444/Droptastic/blob/main/Gameplay.gif" width=600 height=600>
